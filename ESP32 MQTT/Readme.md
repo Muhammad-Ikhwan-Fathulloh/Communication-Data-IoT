@@ -1,1 +1,1 @@
-http://www.hivemq.com/demos/websocket-client/
+MQTT Client : http://www.hivemq.com/demos/websocket-client/
